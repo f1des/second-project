@@ -1,0 +1,8 @@
+.footer__list-item {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
