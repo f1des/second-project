@@ -1,3 +1,8 @@
 .recources__logo_theme_arzamas {
   background-image: url(../../../../images/logo/resources-arzamas.svg);
 }
+
+.recources__logo_theme_arzamas:hover {
+  opacity: .8;
+  transition-duration: .5s;
+}
